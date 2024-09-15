@@ -1,12 +1,3 @@
-It's used here to put some of my python works,
-
-
-
-There are also some chaotic works,
-
-
-
-Most of them are made by watching tutorials.
 
 
 
