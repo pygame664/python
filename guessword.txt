@@ -1,0 +1,6 @@
+dog
+chicken
+cat
+frog
+lion
+monkey
